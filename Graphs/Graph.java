@@ -36,12 +36,8 @@ public class Graph {
 		}
 		System.out.println();
 	}
-	boolean existsPath(int x,int y) {
-		for(int i=0;i<node[x].adjList.size();i++) {
-			if(node[x].adjList.get(i).label == x)
-				return true;
-		}
-		return false;
+	int isPath(int x,int y) {
+		return node[x].isPath(y,0);
 	}
 	void printOrder() {
 		for(int i=0;i<size;i++) {

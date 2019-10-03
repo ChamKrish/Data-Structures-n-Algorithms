@@ -26,6 +26,13 @@ public class Node {
 		postorder = ++count;
 		return count;
 	}
+	int isPath(int y,int k) {
+		for(int i=0;i<adjList.size();i++) {
+			if(adjList.get(i).label == y) k += 1;
+			else adjList.get(i).isPath(y,k);
+		}
+		return k;
+	}
 	void bfs(ArrayDeque<Node>deq) {
 		while(!deq.isEmpty()) {
 			Node n = deq.remove();
