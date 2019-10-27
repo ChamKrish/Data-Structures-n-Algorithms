@@ -11,3 +11,4 @@
 > 4) Queue
 > 5) Stack
 > 6) Dequeue
+> 7) Hash Table
