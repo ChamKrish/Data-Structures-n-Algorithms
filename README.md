@@ -11,5 +11,5 @@
 > 4) [Queue](https://github.com/cham2601/Data-Structures---java/tree/master/Queue)
 > 5) [Stack](https://github.com/cham2601/Data-Structures---java/tree/master/Stack)
 > 6) [Dequeue](https://github.com/cham2601/Data-Structures---java/tree/master/Dequeue)
-> 7) [Hash Table](https://github.com/cham2601/Data-Structures---java/tree/master/Hash&20Table)
-> 8) [Disjoint Set](https://github.com/cham2601/Data-Structures---java/tree/master/Disjoint&20Set)
+> 7) [Hash Table](https://github.com/cham2601/Data-Structures---java/tree/master/Hash%20Table)
+> 8) [Disjoint Set](https://github.com/cham2601/Data-Structures---java/tree/master/Disjoint%20Set)
