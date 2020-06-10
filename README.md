@@ -13,3 +13,4 @@
 > 6) [Dequeue](https://github.com/cham2601/Data-Structures---java/tree/master/Dequeue)
 > 7) [Hash Table](https://github.com/cham2601/Data-Structures---java/tree/master/Hash%20Table)
 > 8) [Disjoint Set](https://github.com/cham2601/Data-Structures---java/tree/master/Disjoint%20Set)
+> 9) [Searching](https://github.com/cham2601/Data-Structures---java/tree/master/Searching)
